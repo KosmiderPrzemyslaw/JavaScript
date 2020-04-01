@@ -1,0 +1,7 @@
+.idea
+*.iml
+*~
+0.example
+=======
+*.*~
+node_modules
